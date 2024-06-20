@@ -1,9 +1,8 @@
 <!-- Dark themed GitHub README -->
 
 <!-- Banner Image -->
-<img src="https://camo.githubusercontent.com/19d84f3f77e41f801c375f8bf8554c39215f2530a171e7f317ed69cc297df16d/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3936313938323233303338383437323132342f343837453635464343313543363045383137463930314137343744333233423235414235383441312f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365" style="width: 100%; height: auto;">
 
-
+<img src="https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" alt="Header Image" style="width: 100%; height: 350px;">
 
 <h1 align="center">Hi 👋, I'm Vikram P</h1>
 <h3 align="center">Engineering Student | Proficient in C/C++, Python, and Java | Aspiring Full-Stack Developer</h3>
