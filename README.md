@@ -8,7 +8,7 @@
 
 <h3 align="center">Engineering Student | Proficient in C/C++, Python, and Java | Aspiring Full-Stack Developer</h3>
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
 - 🔭 I’m passionate about: **Data structures and algorithms.**
 
