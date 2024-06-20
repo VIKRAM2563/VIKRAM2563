@@ -4,7 +4,8 @@
 
 <img src="https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" alt="Header Image" style="width: 100%; height: 350px;">
 
-<h1 align="center">Hi 👋, I'm Vikram P</h1>
+<h1 align="center" style="font-size: 10em;">Hi 👋, I'm Vikram P</h1>
+
 <h3 align="center">Engineering Student | Proficient in C/C++, Python, and Java | Aspiring Full-Stack Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
@@ -117,22 +118,23 @@
 
 <h3>Development Projects:</h3>
 <ul>
-    <li><a href="https://github.com/VIKRAM2563/Hotspot-Attendance-System">Hotspot Attendance System</a></li>
-    <li><a href="https://github.com/VIKRAM2563/WordPedia-React-App">WordPedia (Dictionary React App)</a></li>
+    <li>Hotspot Attendance System: <a href="https://github.com/VIKRAM2563/Hotspot-Attendance-System">https://github.com/VIKRAM2563/Hotspot-Attendance-System</a></li>
+    <li>WordPedia (Dictionary React App): <a href="https://github.com/VIKRAM2563/WordPedia-React-App">https://github.com/VIKRAM2563/WordPedia-React-App</a></li>
 </ul>
 
 <h3>Machine Learning Projects:</h3>
 <ul>
-    <li><a href="https://github.com/VIKRAM2563/CustomerSegmentation-KMeans-MachineLearning">Customer Segmentation using K-Means</a></li>
-    <li><a href="https://github.com/VIKRAM2563/HousePricePrediction-MachineLearning">House Price Prediction</a></li>
+    <li>Customer Segmentation using K-Means: <a href="https://github.com/VIKRAM2563/CustomerSegmentation-KMeans-MachineLearning">https://github.com/VIKRAM2563/CustomerSegmentation-KMeans-MachineLearning</a></li>
+    <li>House Price Prediction: <a href="https://github.com/VIKRAM2563/HousePricePrediction-MachineLearning">https://github.com/VIKRAM2563/HousePricePrediction-MachineLearning</a></li>
 </ul>
 
 <h3>Exploratory Projects:</h3>
 <ul>
-    <li><a href="https://github.com/VIKRAM2563/TicTacToe-AI-Python">Tic-tac-toe using AI</a></li>
-    <li><a href="https://github.com/VIKRAM2563/Sorting-Visualizer-Tool">Sorting Visualizer</a></li>
-    <li><a href="https://github.com/VIKRAM2563/JavaFX-Media-Player">Media Player using JavaFX</a></li>
+    <li>Tic-tac-toe using AI: <a href="https://github.com/VIKRAM2563/TicTacToe-AI-Python">https://github.com/VIKRAM2563/TicTacToe-AI-Python</a></li>
+    <li>Sorting Visualizer: <a href="https://github.com/VIKRAM2563/Sorting-Visualizer-Tool">https://github.com/VIKRAM2563/Sorting-Visualizer-Tool</a></li>
+    <li>Media Player using JavaFX: <a href="https://github.com/VIKRAM2563/JavaFX-Media-Player">https://github.com/VIKRAM2563/JavaFX-Media-Player</a></li>
 </ul>
+
 
 <p>&nbsp;</p>
 
