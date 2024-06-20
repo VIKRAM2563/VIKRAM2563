@@ -1,10 +1,14 @@
 <!-- Dark themed GitHub README -->
 
 <!-- Banner Image -->
-<img src="https://w0.peakpx.com/wallpaper/963/804/HD-wallpaper-programmer-eat-sleep-code-repeat.jpg" alt="Banner Image" width="100%" />
+<img src="https://camo.githubusercontent.com/19d84f3f77e41f801c375f8bf8554c39215f2530a171e7f317ed69cc297df16d/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3936313938323233303338383437323132342f343837453635464343313543363045383137463930314137343744333233423235414235383441312f3f696d773d3530303026696d683d3530303026696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d66616c7365" style="width: 100%; height: auto;">
+
+
 
 <h1 align="center">Hi 👋, I'm Vikram P</h1>
 <h3 align="center">Engineering Student | Proficient in C/C++, Python, and Java | Aspiring Full-Stack Developer</h3>
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
 - 🔭 I’m passionate about: **Data structures and algorithms.**
 
@@ -16,18 +20,7 @@
 
 - 📫 How to reach me: **vikrampartha24@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    LinkedIn:
-    <a href="https://linkedin.com/in/vikram-p-820345295" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <br>
-    Email: <a href="mailto:vikrampartha24@gmail.com">vikrampartha24@gmail.com</a><br>
-    Phone/WhatsApp: <a href="https://wa.me/918073613288">+91 8073613288</a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+<h1 align="left">Languages and Tools:</h1>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
@@ -115,40 +108,50 @@
     </a> 
 </p>
 
-<h3 align="left">Projects:</h3>
+<!-- GitHub Stats section -->
+<h1 align="left">GitHub Stats:</h1>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram2563&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram2563&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram2563&theme=dark" alt="GitHub Streak" /></p>
 
-<h4>Development Projects:</h4>
+<h1 align="left">Projects:</h1>
+
+<h3>Development Projects:</h3>
 <ul>
     <li><a href="https://github.com/VIKRAM2563/Hotspot-Attendance-System">Hotspot Attendance System</a></li>
     <li><a href="https://github.com/VIKRAM2563/WordPedia-React-App">WordPedia (Dictionary React App)</a></li>
 </ul>
 
-<h4>Machine Learning Projects:</h4>
+<h3>Machine Learning Projects:</h3>
 <ul>
     <li><a href="https://github.com/VIKRAM2563/CustomerSegmentation-KMeans-MachineLearning">Customer Segmentation using K-Means</a></li>
     <li><a href="https://github.com/VIKRAM2563/HousePricePrediction-MachineLearning">House Price Prediction</a></li>
 </ul>
 
-<h4>Exploratory Projects:</h4>
+<h3>Exploratory Projects:</h3>
 <ul>
     <li><a href="https://github.com/VIKRAM2563/TicTacToe-AI-Python">Tic-tac-toe using AI</a></li>
     <li><a href="https://github.com/VIKRAM2563/Sorting-Visualizer-Tool">Sorting Visualizer</a></li>
     <li><a href="https://github.com/VIKRAM2563/JavaFX-Media-Player">Media Player using JavaFX</a></li>
 </ul>
 
-
-
 <p>&nbsp;</p>
 
-<!-- GitHub Stats section -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vikram2563&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></p>
+<h1 align="left">Contact Me:</h1>
+<p align="left">
+    LinkedIn:
+    <a href="https://linkedin.com/in/vikram-p-820345295" target="_blank" rel="noreferrer">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <br>
+    Email: <a href="mailto:vikrampartha24@gmail.com">vikrampartha24@gmail.com</a><br>
+    Phone/WhatsApp: <a href="https://wa.me/918073613288">+91 8073613288</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikram2563&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></p>
+<h1>Let's Connect!</h1>
+<p>Drop me a line if you have any questions, exciting project ideas, or just want to grab a virtual coffee! ☕️</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikram2563&theme=dark" alt="GitHub Streak" /></p>
 
 <!-- Profile views at the end -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram2563&label=Profile%20views&color=0e75b6&style=flat" alt="vikram2563" /> </p>
-
-
 
