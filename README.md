@@ -20,6 +20,9 @@
 
 - 📫 How to reach me: **vikrampartha24@gmail.com**
 
+- 📝 To know more about my experience and access my resume, check out [this link](https://drive.google.com/file/d/1ZxkEGsantWNG8UJulR1m52I9NTmtPlu3/view?usp=sharing)
+
+
 <h1 align="left">Languages and Tools:</h1>
 <p align="left">
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
