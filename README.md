@@ -20,7 +20,7 @@
 
 - 📫 How to reach me: **vikrampartha24@gmail.com**
 
-- 📝 To know more about my experience and access my resume, check out [this link](https://drive.google.com/file/d/1ZxkEGsantWNG8UJulR1m52I9NTmtPlu3/view?usp=sharing)
+- 📝 To know more about my experience and access my resume, check out [this link](https://drive.google.com/file/d/1sD2FqODb-WLZShaRtjiqynbzd_n0em0Q/view?usp=drive_link)
 
 
 <h1 align="left">Languages and Tools:</h1>
